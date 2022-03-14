@@ -1,0 +1,31 @@
+Comando para entrar com login do github
+Git config --global user.name 
+config --global user.email
+
+Comando para criar u novo projeto 
+Git init
+
+Comando para copiar repositorio do git via link
+Git clone
+
+Comando que adicona arequivos ao repositorio
+Git add nome do arquivo
+ou Git add . para adicionar todos
+
+Comando para fazer commit dos arquivos adicionados 
+Git commit 
+Git commit -m para "deixar mensagem"
+
+Comando para trazer conteudo do repositorio remoto
+Git pull
+
+Comando para enviar arquivos alterados no computador local para o repositorio
+Git push 
+
+comando para ver arquivos modificados 
+Git status
+
+Comando para criar uma tag de informaçao para versoes
+Git tag
+
+
